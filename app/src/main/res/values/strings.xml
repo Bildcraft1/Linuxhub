@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">linuxhub</string>
+    <string name="website_domain">linuxhub.it</string>
+    <string name="website_url">https://linuxhub.it</string>
+</resources>
